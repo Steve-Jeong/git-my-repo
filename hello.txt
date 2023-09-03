@@ -9,6 +9,7 @@ While the other part pulled and was editing it, something happened in this side 
 
 test case 2.
 change from case 4
+something new from case 4
 While the other part pulled and was editing it, something happened in this side and pushed.
 
 test case 2.
@@ -28,3 +29,5 @@ test continued
 test case 4
 test case 4 continued.
 test case 4 continued.
+something new from case 4
+
