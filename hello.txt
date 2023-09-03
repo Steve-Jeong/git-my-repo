@@ -7,6 +7,7 @@ This side was editing after pulling without knowing the other side already pushe
 While the other part pulled and was editing it, something happened in this side and pushed.
 
 test case 2.
+change from case 4
 While the other part pulled and was editing it, something happened in this side and pushed.
 
 test case 2.
@@ -23,4 +24,5 @@ test continued
 test continued
 
 test case 4
+test case 4 continued.
 test case 4 continued.
