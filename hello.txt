@@ -4,6 +4,7 @@ backup3
 
 test case 1.
 change from case 3
+something new from case 3
 This side was editing after pulling without knowing the other side already pushed new things.
 While the other part pulled and was editing it, something happened in this side and pushed.
 
@@ -24,6 +25,8 @@ test case 3 continued
 test continued
 test continued
 test continued
+something new from case 3
+something2 new from case 3
 
 test case 4
 test case 4 continued.
