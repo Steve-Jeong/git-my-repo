@@ -14,3 +14,5 @@ This side was editing after pulling without knowing the other side already pushe
 
 test case 2 conclusion from the other com.
 만약 에디팅하는 줄이 바뀌면 내용이 다르다고 생각하고 둘 다 merge해 버린다.
+
+test case 3 from other com
