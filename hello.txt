@@ -19,4 +19,7 @@ test case 3
 test case 3 from other com
 
 test case 3 continued
+test continued
+test continued
+
 test case 4
