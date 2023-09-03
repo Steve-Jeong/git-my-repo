@@ -5,3 +5,6 @@ backup3
 This side was editing after pulling without knowing the other side already pushed new things.
 
 While the other part pulled and was editing it, something happened in this side and pushed.
+
+test case 2.
+This side was editing after pulling without knowing the other side already pushed new things.
